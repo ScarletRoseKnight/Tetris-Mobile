@@ -41,7 +41,7 @@ The game is optimized for one-handed mobile play with intuitive touch gestures:
 Skip the build process — just install and enjoy.
 
 👉 Download the latest APK:  
-https://drive.google.com/file/d/1hL5YGnlhYAxGnJn4Ea4yxXksUy9Ucx5Z/view?usp=drive_link
+https://drive.google.com/file/d/1pqMQxeITqSXgZAUpUiXrHYHUa_3GS_5l/view?usp=drive_link
 
 Enable “Install unknown apps” on your device if prompted.!
 
