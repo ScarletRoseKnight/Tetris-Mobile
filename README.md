@@ -2,7 +2,7 @@
 
 A retro-futuristic Tetris clone for Android, meticulously designed to replicate the terminal aesthetic of the **Fallout 4 Pip-Boy**. Built with Kotlin and custom SurfaceView rendering.
 
-<img width="221" height="480" alt="image" src="https://github.com/user-attachments/assets/efb93bcf-3123-4c24-b861-4228a2f65e10" />
+[<img width="221" height="480" alt="image" src="https://github.com/user-attachments/assets/efb93bcf-3123-4c24-b861-4228a2f65e10" />](https://media.licdn.com/dms/image/v2/D4E2DAQGOzSEUQACSNw/profile-treasury-image-shrink_480_480/B4EZ7mmX0MHwAc-/0/1781985279565?e=1782597600&v=beta&t=nblwnW8-Dp6cd0DpHjBdPyLGndcX1c6IjHLTXnUBmos)
 <img width="221" height="480" alt="image" src="https://github.com/user-attachments/assets/95d2ddd9-d6c5-450a-bd53-882ca8912958" />
 <img width="221" height="480" alt="image" src="https://github.com/user-attachments/assets/0abc935b-4f21-4fe8-907d-8800ebe0a551" />
 <img width="221" height="480" alt="image" src="https://github.com/user-attachments/assets/45a3a7a6-74e2-4336-8fee-6a648e735db6" />
